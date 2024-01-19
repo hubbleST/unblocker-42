@@ -35,9 +35,6 @@ More advanced websites, such as Roblox, Discord, YouTube*, Instagram, etc. do no
 Patches are welcome, including both general-purpose improvements to go into the main library, and site-specific
 fixes to go in the examples folder.
 
-## Running the website on your computer
-
-See https://github.com/nfriedly/nodeunblocker.com
 
 ## Using unblocker as a library in your software
 
@@ -305,12 +302,11 @@ If you're using Nginx as a reverse proxy, you probably need to disable `merge_sl
 ## AGPL-3.0 License
 This project is released under the terms of the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.html).
 
-All source code is copyright [Nathan Friedly](http://nfriedly.com/).
 
-Commercial licensing and support are also available, contact Nathan Friedly (nathan@nfriedly.com) for details.
 
 ## Contributors
 * [Nathan Friedly](http://nfriedly.com)
 * [Arturo Filastò](https://github.com/hellais)
 * [tfMen](https://github.com/tfMen)
 * [Emil Hemdal](https://github.com/emilhem)
+* [Dylan Muir](https://github.com/hubbleST)
